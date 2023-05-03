@@ -1,0 +1,10 @@
+<svg id="post-it" xmlns="http://www.w3.org/2000/svg" width="44.332" height="40.63" viewBox="0 0 44.332 40.63">
+  <path id="Path_347" data-name="Path 347" d="M34.35,116.552,23.029,87.926a.923.923,0,0,0-.75-.576L4.734,85.285a.91.91,0,0,0-1.028.775c0,.011,0,.023,0,.034L.008,115.644a.923.923,0,0,0,.8,1.035l.022,0,32.32,3.694h.105a.923.923,0,0,0,.923-.837l.24-2.562A.921.921,0,0,0,34.35,116.552Z" transform="translate(0 -79.745)" fill="#ffa000"/>
+  <path id="Path_348" data-name="Path 348" d="M118.617,86.112a.923.923,0,0,0-1.024-.81h-.008l-7.941.935L86.189,89a.923.923,0,0,0-.814,1.01l2.77,29.549a.923.923,0,0,0,.923.837h.105l32.32-3.694a.923.923,0,0,0,.812-1.023v-.012Z" transform="translate(-77.979 -79.762)" fill="#ffe082"/>
+  <path id="Path_349" data-name="Path 349" d="M299.663,102.381a.923.923,0,0,1-.654-1.577l4.617-4.617a.923.923,0,1,1,1.328,1.283l-.023.023-4.617,4.617A.923.923,0,0,1,299.663,102.381Z" transform="translate(-272.876 -89.453)" fill="#455a64"/>
+  <circle id="Ellipse_19" data-name="Ellipse 19" cx="4.617" cy="4.617" r="4.617" transform="translate(29.557)" fill="#f44336"/>
+  <path id="Path_350" data-name="Path 350" d="M411.832,904.294l6.352-.544L419.03,902l1.089,1.755,3.811-.363,1.029,1.392,1.452-1.392,11.8-1.089" transform="translate(-399.563 -885.056)" fill="none" stroke="#432800" stroke-linejoin="round" stroke-width="1"/>
+  <path id="Path_351" data-name="Path 351" d="M0,2.3l4.021-.544L4.557,0l.689,1.755,2.413-.363L8.31,2.783l.919-1.392L16.7.3" transform="translate(13.421 27.176) rotate(3)" fill="none" stroke="#432800" stroke-linejoin="round" stroke-width="1"/>
+  <path id="Path_352" data-name="Path 352" d="M412.172,909.127l9.618-.726" transform="translate(-399.541 -884.626)" fill="none" stroke="#432800" stroke-width="1"/>
+  <path id="Path_353" data-name="Path 353" d="M423.112,908.557l11.736-1.029.908-1.452,1.331,1.452,1.754-.3" transform="translate(-398.806 -884.782)" fill="none" stroke="#432800" stroke-linejoin="round" stroke-width="1"/>
+</svg>

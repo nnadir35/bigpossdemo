@@ -1,0 +1,6 @@
+<svg id="square" xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24">
+  <path id="Path_486" data-name="Path 486" d="M24,4.235V0H19.765V1.412H4.235V0H0V4.235H1.412V19.765H0V24H4.235V22.588H19.765V24H24V19.765H22.588V4.235ZM21.176,1.412h1.412V2.824H21.176Zm-19.765,0H2.824V2.824H1.412ZM2.824,22.588H1.412V21.176H2.824Zm19.765,0H21.176V21.176h1.412Zm-1.412-2.824H19.765v1.412H4.235V19.765H2.824V4.235H4.235V2.824H19.765V4.235h1.412Z" fill="#353745"/>
+  <path id="Path_487" data-name="Path 487" d="M0,0H7.059V1.412H0Z" transform="translate(6.009 11.004) rotate(-45)" fill="#353745"/>
+  <path id="Path_488" data-name="Path 488" d="M0,0H7.059V1.412H0Z" transform="translate(11.997 16.994) rotate(-45)" fill="#353745"/>
+  <path id="Path_489" data-name="Path 489" d="M0,0H11.294V1.412H0Z" transform="translate(7.506 15.496) rotate(-45)" fill="#353745"/>
+</svg>
